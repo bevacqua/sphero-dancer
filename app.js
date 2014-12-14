@@ -4,7 +4,7 @@ var Cylon = require('cylon');
 
 Cylon.robot({
   connections: {
-    sphero: { adaptor: 'sphero', port: process.env.SPHERO || '/dev/tty.Sphero-PGO-AMP-SPP' }
+    sphero: { adaptor: 'sphero', port: process.env.SPHERO }
   },
 
   devices: {
