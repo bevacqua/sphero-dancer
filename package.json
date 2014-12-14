@@ -1,0 +1,13 @@
+{
+  "name": "sphero-dancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "repository": "https://github.com/bevacqua/sphero-dancer.git",
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "cylon": "^0.21.2",
+    "cylon-sphero": "^0.17.0"
+  }
+}
