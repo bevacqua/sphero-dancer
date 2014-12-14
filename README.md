@@ -4,7 +4,15 @@
 
 # CLI
 
-Find your Sphero and then type this into the terminal.
+Connect to your Sphero over Bluetooth.
+
+Then find your Sphero.
+
+```shell
+ls /dev | grep Sphero
+```
+
+Then type this into the terminal.
 
 ```shell
 SPHERO="/dev/tty.Sphero-XXX-XXX-XXX" dancer
