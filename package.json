@@ -1,7 +1,7 @@
 {
   "name": "sphero-dancer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Make a Sphero dance and avoid obstacles with Node.js and Cylon",
   "main": "app.js",
   "repository": "https://github.com/bevacqua/sphero-dancer.git",
   "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
